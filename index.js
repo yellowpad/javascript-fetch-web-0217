@@ -1,7 +1,7 @@
 const app = "I don't do much.";
 
 
-const token = 'df12ce078e6347f7d44fbd0837d5cb0cc39d2e57'
+const token = 'tfay24kfreal7d44fbd0857'
 fetch('https://api.github.com/user/repos', {
   headers: {
     Authorization: `token ${token}`
